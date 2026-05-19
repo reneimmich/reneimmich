@@ -37,17 +37,6 @@
 
 ---
 
-## 📂 Projetos em Destaque
-
-> 🚧 Em construção — cada dia aprendendo mais!
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| 🔜 Em breve | Scripts Python para iniciantes | Python |
-| 🔜 Em breve | Páginas web responsivas | HTML/CSS |
-| 🔜 Em breve | Exercícios de lógica de programação | Python |
-
----
 
 ## 📊 GitHub Stats
 
