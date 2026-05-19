@@ -16,9 +16,9 @@
 - 💡 Aprendendo **Python**, lógica de programação e **Desenvolvimento Web**
 - 🚀 Participando do projeto **Stratto System**
 - 💼 Background como **Líder de Produção** — habilidades de gestão aplicadas ao mundo tech
-- 📍 **Brasil**
+- 📍 **Curitiba - Brazil**
 - 🌱 Atualmente focado em: **Python** e fundamentos de programação
-- 🎯 Objetivo: Conquistar meu primeiro **estágio/vaga júnior** em tecnologia
+- 🎯 Objetivo: Continuar desenvolvendo e crescer cada vez mais na area de Tecnologia
 
 ---
 
