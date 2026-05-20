@@ -10,17 +10,24 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+# Olá! Eu sou Renê 👋
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💡 Aprendendo **Python**, lógica de programação e **Desenvolvimento Web**
-- 🚀 Participando do projeto **Stratto System**
-- 💼 Background como **Líder de Produção** — habilidades de gestão aplicadas ao mundo tech
-- 📍 **Curitiba - Brazil**
-- 🌱 Atualmente focado em: **Python** e fundamentos de programação
-- 🎯 Objetivo: Continuar desenvolvendo e crescer cada vez mais na area de Tecnologia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Júnior focado em Python, QA e automação  
+🚀 Participando do desenvolvimento da Stratto System  
+📍 Curitiba - PR
 
----
+## Tecnologias
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- QA/Testes
+- IA Generativa
+
+## Objetivos
+Buscando oportunidades como Desenvolvedor Júnior, QA ou Analista de Sistemas.
 
 ## 🛠️ Tecnologias e Ferramentas
 
